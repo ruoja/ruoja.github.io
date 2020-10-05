@@ -1,0 +1,9 @@
+html, body{ background-color: lightgray }
+.wrapper { width: 90%; margin: auto; }
+.header { padding-top: 40px; padding-bottom: 20px; }
+.selfie { width: 500px; height: 500px; border-radius: 250px; -webkit-border-radius: 250px; -moz-border-radius: 250px; margin: auto; background: url(../img/japan.jpg) no-repeat; background-size: cover; background-position: center; }
+.content { display: inline-block; vertical-align: baseline; }
+.page { text-align: center; }
+.title { text-transform: uppercase; margin-bottom: 0; }
+.subtitle { margin-top: 0; }
+.social { padding: 5px; }
